@@ -1,0 +1,7 @@
+C:\C# Kurs\Kullanıcıdan Değer Alma\bin\Debug\Kullanıcıdan Değer Alma.exe.config
+C:\C# Kurs\Kullanıcıdan Değer Alma\bin\Debug\Kullanıcıdan Değer Alma.exe
+C:\C# Kurs\Kullanıcıdan Değer Alma\bin\Debug\Kullanıcıdan Değer Alma.pdb
+C:\C# Kurs\Kullanıcıdan Değer Alma\obj\Debug\Kullanıcıdan Değer Alma.csproj.AssemblyReference.cache
+C:\C# Kurs\Kullanıcıdan Değer Alma\obj\Debug\Kullanıcıdan Değer Alma.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Kullanıcıdan Değer Alma\obj\Debug\Kullanıcıdan Değer Alma.exe
+C:\C# Kurs\Kullanıcıdan Değer Alma\obj\Debug\Kullanıcıdan Değer Alma.pdb
