@@ -1,0 +1,7 @@
+C:\C# Kurs\VeriTipleri\bin\Debug\VeriTipleri.exe.config
+C:\C# Kurs\VeriTipleri\bin\Debug\VeriTipleri.exe
+C:\C# Kurs\VeriTipleri\bin\Debug\VeriTipleri.pdb
+C:\C# Kurs\VeriTipleri\obj\Debug\VeriTipleri.csproj.AssemblyReference.cache
+C:\C# Kurs\VeriTipleri\obj\Debug\VeriTipleri.csproj.CoreCompileInputs.cache
+C:\C# Kurs\VeriTipleri\obj\Debug\VeriTipleri.exe
+C:\C# Kurs\VeriTipleri\obj\Debug\VeriTipleri.pdb
