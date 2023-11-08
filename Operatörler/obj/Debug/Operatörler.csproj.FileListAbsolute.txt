@@ -1,0 +1,7 @@
+C:\C# Kurs\Operatörler\bin\Debug\Operatörler.exe.config
+C:\C# Kurs\Operatörler\bin\Debug\Operatörler.exe
+C:\C# Kurs\Operatörler\bin\Debug\Operatörler.pdb
+C:\C# Kurs\Operatörler\obj\Debug\Operatörler.csproj.AssemblyReference.cache
+C:\C# Kurs\Operatörler\obj\Debug\Operatörler.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Operatörler\obj\Debug\Operatörler.exe
+C:\C# Kurs\Operatörler\obj\Debug\Operatörler.pdb
