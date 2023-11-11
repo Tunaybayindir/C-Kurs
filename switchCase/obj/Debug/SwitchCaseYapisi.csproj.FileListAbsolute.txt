@@ -1,7 +1,0 @@
-C:\C#Dersleri\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.exe.config
-C:\C#Dersleri\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.exe
-C:\C#Dersleri\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.pdb
-C:\C#Dersleri\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csprojAssemblyReference.cache
-C:\C#Dersleri\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csproj.CoreCompileInputs.cache
-C:\C#Dersleri\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.exe
-C:\C#Dersleri\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.pdb
