@@ -1,0 +1,7 @@
+C:\C# Kurs\switchCase\obj\Debug\switchCase.csproj.AssemblyReference.cache
+C:\C# Kurs\switchCase\obj\Debug\switchCase.csproj.CoreCompileInputs.cache
+C:\C# Kurs\switchCase\bin\Debug\switchCase.exe.config
+C:\C# Kurs\switchCase\bin\Debug\switchCase.exe
+C:\C# Kurs\switchCase\bin\Debug\switchCase.pdb
+C:\C# Kurs\switchCase\obj\Debug\switchCase.exe
+C:\C# Kurs\switchCase\obj\Debug\switchCase.pdb
