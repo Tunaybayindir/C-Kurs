@@ -1,0 +1,7 @@
+C:\C# Kurs\KararYapıları\miniAtm\bin\Debug\miniAtm.exe.config
+C:\C# Kurs\KararYapıları\miniAtm\bin\Debug\miniAtm.exe
+C:\C# Kurs\KararYapıları\miniAtm\bin\Debug\miniAtm.pdb
+C:\C# Kurs\KararYapıları\miniAtm\obj\Debug\miniAtm.csproj.AssemblyReference.cache
+C:\C# Kurs\KararYapıları\miniAtm\obj\Debug\miniAtm.csproj.CoreCompileInputs.cache
+C:\C# Kurs\KararYapıları\miniAtm\obj\Debug\miniAtm.exe
+C:\C# Kurs\KararYapıları\miniAtm\obj\Debug\miniAtm.pdb

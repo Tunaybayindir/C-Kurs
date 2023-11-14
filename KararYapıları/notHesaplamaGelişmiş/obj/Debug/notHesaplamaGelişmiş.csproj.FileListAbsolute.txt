@@ -1,0 +1,7 @@
+C:\C# Kurs\notHesaplamaGelişmiş\bin\Debug\notHesaplamaGelişmiş.exe.config
+C:\C# Kurs\notHesaplamaGelişmiş\bin\Debug\notHesaplamaGelişmiş.exe
+C:\C# Kurs\notHesaplamaGelişmiş\bin\Debug\notHesaplamaGelişmiş.pdb
+C:\C# Kurs\notHesaplamaGelişmiş\obj\Debug\notHesaplamaGelişmiş.csproj.AssemblyReference.cache
+C:\C# Kurs\notHesaplamaGelişmiş\obj\Debug\notHesaplamaGelişmiş.csproj.CoreCompileInputs.cache
+C:\C# Kurs\notHesaplamaGelişmiş\obj\Debug\notHesaplamaGelişmiş.exe
+C:\C# Kurs\notHesaplamaGelişmiş\obj\Debug\notHesaplamaGelişmiş.pdb

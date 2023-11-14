@@ -1,0 +1,7 @@
+C:\C# Kurs\KararYapıları\bedenKitleHesaplama\bin\Debug\bedenKitleHesaplama.exe.config
+C:\C# Kurs\KararYapıları\bedenKitleHesaplama\bin\Debug\bedenKitleHesaplama.exe
+C:\C# Kurs\KararYapıları\bedenKitleHesaplama\bin\Debug\bedenKitleHesaplama.pdb
+C:\C# Kurs\KararYapıları\bedenKitleHesaplama\obj\Debug\bedenKitleHesaplama.csproj.AssemblyReference.cache
+C:\C# Kurs\KararYapıları\bedenKitleHesaplama\obj\Debug\bedenKitleHesaplama.csproj.CoreCompileInputs.cache
+C:\C# Kurs\KararYapıları\bedenKitleHesaplama\obj\Debug\bedenKitleHesaplama.exe
+C:\C# Kurs\KararYapıları\bedenKitleHesaplama\obj\Debug\bedenKitleHesaplama.pdb
