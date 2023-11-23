@@ -1,0 +1,7 @@
+C:\C# Kurs\Class\Diziler\bin\Debug\Diziler.exe.config
+C:\C# Kurs\Class\Diziler\bin\Debug\Diziler.exe
+C:\C# Kurs\Class\Diziler\bin\Debug\Diziler.pdb
+C:\C# Kurs\Class\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\C# Kurs\Class\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Class\Diziler\obj\Debug\Diziler.exe
+C:\C# Kurs\Class\Diziler\obj\Debug\Diziler.pdb

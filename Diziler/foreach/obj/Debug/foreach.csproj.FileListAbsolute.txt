@@ -1,0 +1,7 @@
+C:\C# Kurs\Class\foreach\bin\Debug\@foreach.exe.config
+C:\C# Kurs\Class\foreach\bin\Debug\@foreach.exe
+C:\C# Kurs\Class\foreach\bin\Debug\@foreach.pdb
+C:\C# Kurs\Class\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+C:\C# Kurs\Class\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Class\foreach\obj\Debug\@foreach.exe
+C:\C# Kurs\Class\foreach\obj\Debug\@foreach.pdb

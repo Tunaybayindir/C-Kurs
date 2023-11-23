@@ -1,0 +1,7 @@
+C:\C# Kurs\Class\GirilenSayilariToplayanTekCiftBulanProgram\bin\Debug\GirilenSayilariToplayanTekCiftBulanProgram.exe.config
+C:\C# Kurs\Class\GirilenSayilariToplayanTekCiftBulanProgram\bin\Debug\GirilenSayilariToplayanTekCiftBulanProgram.exe
+C:\C# Kurs\Class\GirilenSayilariToplayanTekCiftBulanProgram\bin\Debug\GirilenSayilariToplayanTekCiftBulanProgram.pdb
+C:\C# Kurs\Class\GirilenSayilariToplayanTekCiftBulanProgram\obj\Debug\GirilenSayilariToplayanTekCiftBulanProgram.csproj.AssemblyReference.cache
+C:\C# Kurs\Class\GirilenSayilariToplayanTekCiftBulanProgram\obj\Debug\GirilenSayilariToplayanTekCiftBulanProgram.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Class\GirilenSayilariToplayanTekCiftBulanProgram\obj\Debug\GirilenSayilariToplayanTekCiftBulanProgram.exe
+C:\C# Kurs\Class\GirilenSayilariToplayanTekCiftBulanProgram\obj\Debug\GirilenSayilariToplayanTekCiftBulanProgram.pdb

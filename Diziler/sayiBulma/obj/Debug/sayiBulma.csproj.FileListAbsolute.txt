@@ -1,0 +1,7 @@
+C:\C# Kurs\Class\sayiBulma\bin\Debug\sayiBulma.exe.config
+C:\C# Kurs\Class\sayiBulma\bin\Debug\sayiBulma.exe
+C:\C# Kurs\Class\sayiBulma\bin\Debug\sayiBulma.pdb
+C:\C# Kurs\Class\sayiBulma\obj\Debug\sayiBulma.csproj.AssemblyReference.cache
+C:\C# Kurs\Class\sayiBulma\obj\Debug\sayiBulma.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Class\sayiBulma\obj\Debug\sayiBulma.exe
+C:\C# Kurs\Class\sayiBulma\obj\Debug\sayiBulma.pdb
