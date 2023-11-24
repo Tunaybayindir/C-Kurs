@@ -1,0 +1,7 @@
+C:\C# Kurs\Class\classKullanimi\bin\Debug\classKullanimi.exe.config
+C:\C# Kurs\Class\classKullanimi\bin\Debug\classKullanimi.exe
+C:\C# Kurs\Class\classKullanimi\bin\Debug\classKullanimi.pdb
+C:\C# Kurs\Class\classKullanimi\obj\Debug\classKullanimi.csproj.AssemblyReference.cache
+C:\C# Kurs\Class\classKullanimi\obj\Debug\classKullanimi.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Class\classKullanimi\obj\Debug\classKullanimi.exe
+C:\C# Kurs\Class\classKullanimi\obj\Debug\classKullanimi.pdb

@@ -1,0 +1,7 @@
+C:\C# Kurs\Class\ogrenciUygulaması1\bin\Debug\ogrenciUygulaması1.exe.config
+C:\C# Kurs\Class\ogrenciUygulaması1\bin\Debug\ogrenciUygulaması1.exe
+C:\C# Kurs\Class\ogrenciUygulaması1\bin\Debug\ogrenciUygulaması1.pdb
+C:\C# Kurs\Class\ogrenciUygulaması1\obj\Debug\ogrenciUygulaması1.csproj.AssemblyReference.cache
+C:\C# Kurs\Class\ogrenciUygulaması1\obj\Debug\ogrenciUygulaması1.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Class\ogrenciUygulaması1\obj\Debug\ogrenciUygulaması1.exe
+C:\C# Kurs\Class\ogrenciUygulaması1\obj\Debug\ogrenciUygulaması1.pdb

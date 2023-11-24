@@ -1,0 +1,7 @@
+C:\C# Kurs\Class\PublicvePrivateErisimBelirleyiciler\bin\Debug\PublicvePrivateErisimBelirleyiciler.exe.config
+C:\C# Kurs\Class\PublicvePrivateErisimBelirleyiciler\bin\Debug\PublicvePrivateErisimBelirleyiciler.exe
+C:\C# Kurs\Class\PublicvePrivateErisimBelirleyiciler\bin\Debug\PublicvePrivateErisimBelirleyiciler.pdb
+C:\C# Kurs\Class\PublicvePrivateErisimBelirleyiciler\obj\Debug\PublicvePrivateErisimBelirleyiciler.csproj.AssemblyReference.cache
+C:\C# Kurs\Class\PublicvePrivateErisimBelirleyiciler\obj\Debug\PublicvePrivateErisimBelirleyiciler.csproj.CoreCompileInputs.cache
+C:\C# Kurs\Class\PublicvePrivateErisimBelirleyiciler\obj\Debug\PublicvePrivateErisimBelirleyiciler.exe
+C:\C# Kurs\Class\PublicvePrivateErisimBelirleyiciler\obj\Debug\PublicvePrivateErisimBelirleyiciler.pdb
